@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,LED_D3.0mm,1,LED,
+J1,PinSocket_1x01_P2.54mm_Vertical,1,G,
+J2,PinSocket_1x01_P2.54mm_Vertical,1,S,
+J3,PinSocket_1x01_P2.54mm_Vertical,1,O,
+J4,PinSocket_1x01_P2.54mm_Vertical,1,I,
+J5,PinSocket_1x01_P2.54mm_Vertical,1,R,
+J6,PinSocket_1x01_P2.54mm_Vertical,1,+9V,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,R,
+SW1,STOMP-SWITCH-3PDT_DaierTek,1,SW_3PDT,
